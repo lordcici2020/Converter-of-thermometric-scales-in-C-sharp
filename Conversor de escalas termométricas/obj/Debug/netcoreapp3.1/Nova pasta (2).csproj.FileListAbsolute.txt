@@ -1,0 +1,39 @@
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).exe
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).deps.json
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).runtimeconfig.json
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).runtimeconfig.dev.json
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).dll
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\bin\Debug\netcoreapp3.1\Nova pasta (2).pdb
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).csprojAssemblyReference.cache
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).AssemblyInfo.cs
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).dll
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).pdb
+C:\Users\natal\Desktop\Trabalhos C#\Nova pasta (2)\obj\Debug\netcoreapp3.1\Nova pasta (2).genruntimeconfig.cache
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).exe
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).deps.json
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).runtimeconfig.json
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).runtimeconfig.dev.json
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).dll
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).pdb
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).csprojAssemblyReference.cache
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).AssemblyInfo.cs
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).dll
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).pdb
+C:\Users\natal\Desktop\Trabalhos C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).genruntimeconfig.cache
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).exe
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).deps.json
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).runtimeconfig.json
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).runtimeconfig.dev.json
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).dll
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\bin\Debug\netcoreapp3.1\Nova pasta (2).pdb
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).csprojAssemblyReference.cache
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).AssemblyInfo.cs
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).dll
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).pdb
+C:\Users\natal\Desktop\Programas\C#\Conversor de escalas termométricas\obj\Debug\netcoreapp3.1\Nova pasta (2).genruntimeconfig.cache
